@@ -1,1 +1,1 @@
-#  -BAll in the basket CG-Mini-project
+#  -Ball in the basket CG-Mini-project
